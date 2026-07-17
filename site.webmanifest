@@ -1,0 +1,18 @@
+{
+  "name": "PUB Viewer",
+  "short_name": "PUB Viewer",
+  "description": "A best-effort Microsoft Publisher (.pub) viewer. Drop a .pub to read its document info and text in your browser \u2014 layout is not reconstructed, and nothing is uploaded.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -68,6 +68,8 @@ text. The viewer's CSP stays strict (`default-src 'none'`, no external assets).
 
 No bundled libraries — the OLE / property-set reader is original to this project.
 The icon is by the author. Analytics by [Plausible](https://plausible.io/).
+Headings are set in [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
+(© 2020 The JetBrains Mono Project Authors, [SIL OFL-1.1](fonts/OFL.txt)).
 
 ## License
 
